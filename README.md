@@ -100,9 +100,6 @@ if($_SERVER['REQUEST_METHOD'] === "POST"){
 ![PHP Slider Captcha Demo](screenshot.png)
 ```
 
-*(Save your screenshot as `screenshot.png` inside the repo root.)*  
-
-
 ---
 
 ## 📜 License
