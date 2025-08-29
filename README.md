@@ -6,14 +6,14 @@ This captcha requires users to slide a block into place and verifies how closely
 ---
 
 ## ✨ Features
-- Lightweight, no external dependencies.  
-- Shows **match percentage** after verification.  
-- Protection with:
-  - CSRF-like token
-  - Expiry (2 minutes)
-  - Honeypot field (bot trap)
-  - Attempt limit per session
-- Easy to integrate into any PHP form.  
+- A lightweight, dependency-free PHP slider captcha that enhances form security with:
+
+  ✅ Match percentage feedback after verification  
+  🔒 CSRF-like token protection  
+  ⏳ 2-minute expiry  
+  🕵️ Honeypot field (bot trap)  
+  🚫 Attempt limit per session  
+  ⚡ Easy drop-in integration for any PHP form  
 
 ---
 
