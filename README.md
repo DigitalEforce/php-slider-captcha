@@ -102,8 +102,6 @@ if($_SERVER['REQUEST_METHOD'] === "POST"){
 
 *(Save your screenshot as `screenshot.png` inside the repo root.)*  
 
----
-
 
 ---
 
