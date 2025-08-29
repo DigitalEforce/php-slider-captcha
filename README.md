@@ -96,14 +96,19 @@ if($_SERVER['REQUEST_METHOD'] === "POST"){
 
 ## 🖼️ Screenshot
 
-```
+
 ![PHP Slider Captcha Demo](screenshot.png)
-```
-
-*(Save your screenshot as `screenshot.png` inside the repo root.)*  
-
 
 ---
 
-## 📜 License
-MIT License © 2025 [DigitalEforce](https://github.com/DigitalEforce)
+## About Me
+
+I am [Naveed](https://github.com/DigitalEforce), a passionate PHP developer. I specialize in creating modern, secure, and professional web applications using PHP, MySQL, and Bootstrap.
+
+Check my GitHub for more projects: [https://github.com/DigitalEforce](https://github.com/DigitalEforce)
+
+---
+
+## License
+
+MIT License 
