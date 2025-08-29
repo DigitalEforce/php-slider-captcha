@@ -96,9 +96,8 @@ if($_SERVER['REQUEST_METHOD'] === "POST"){
 
 ## 🖼️ Screenshot
 
-```
+
 ![PHP Slider Captcha Demo](screenshot.png)
-```
 
 ---
 
